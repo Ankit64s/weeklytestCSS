@@ -15,7 +15,12 @@ Snapshot:
 
 Tags Used:
 div: this is used to create different div sections
+
 span: used to create span button for different type
+
 heading: for creating headeing like h1 to h6
+
 img: to insert image
+
 p: to insert paragraph
+
